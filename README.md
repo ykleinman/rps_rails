@@ -5,11 +5,14 @@ In this project, we'll practice basic Ruby, but within the context of Rails; so 
 ## Setup
 
  1. Clone this project.
- 1. Create your branch.
  1. Open the folder in Atom.
  1. Navigate to the folder in Terminal.
- 1. Once you are inside the `rps_rails` folder in Terminal, run the command
+ 1. Once you are inside the `rps_rails` folder in Terminal, run the commands
 
+        bundle install
+    
+    and then
+    
         rails server
 
     If all goes well, you should see something like
